@@ -24,3 +24,4 @@
     Observer
     State
     Strategy
+    Template
