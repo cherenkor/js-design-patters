@@ -22,3 +22,4 @@
     Iterator
     Mediator
     Observer
+    State
