@@ -23,3 +23,4 @@
     Mediator
     Observer
     State
+    Strategy
