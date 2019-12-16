@@ -1,11 +1,13 @@
-# 1. Creational
+# Design patterns
+
+## 1. Creational
 
     Constructor
     Factory
     Prototype
     Singleton
 
-# 2. Structural
+## 2. Structural
 
     Adapter
     Decorator
@@ -13,7 +15,7 @@
     Flyweight
     Proxy
 
-# 3. Behaviour
+## 3. Behavioral
 
     Chain of Responsibility
     Command
